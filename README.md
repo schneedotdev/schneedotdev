@@ -60,10 +60,18 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/brianschnee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brianschnee" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/brianschnee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brianschnee" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianschnee&show_icons=true&locale=en&layout=compact" alt="brianschnee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianschnee&show_icons=true&locale=en" alt="brianschnee" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianschnee&show_icons=true&locale=en" alt="brianschnee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianschnee&" alt="brianschnee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianschnee&" alt="brianschnee" /></p> -->
+
+
+<table>
+  <tr>
+    <td valign="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianschnee&show_icons=true&locale=en&layout=compact" alt="brianschnee" /></p></td>
+    <td valign="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianschnee&show_icons=true&locale=en" alt="brianschnee" /></p></td>
+    <td valign="center"><p margin="0"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianschnee&" alt="brianschnee" /></p></td>
+  </tr>
+</table>
