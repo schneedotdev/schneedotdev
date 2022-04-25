@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Schnee</h1>
-<h3 align="center">Your teams next trusty Software Engineer</h3>
+<h4 align="center">Your teams next trusty Software Engineer</h4>
 
-- 📫 How to reach me **https://www.brianschnee.com/#contact**
+📫 How to reach me **https://www.brianschnee.com/#contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
