@@ -9,7 +9,7 @@
 ## Social Media
 
 <a href="https://www.brianschnee.com">
-  <img src="https://img.shields.io/badge/Portfolio-414045?logo=link&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Portfolio-414045?logo=circle&logoColor=00c5a9&style=for-the-badge">
 </a>
 <a href="https://www.linkedin.com/in/brian-schnee-dev/">
   <img src="https://img.shields.io/badge/linkedin-414045?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
