@@ -13,11 +13,11 @@
 <a href="https://www.brianschnee.com">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=00c5a9&style=for-the-badge">
 </a>
-<a href="https://www.linkedin.com/in/brian-schnee-dev/">
-  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
-</a>
 <a href="https://twitter.com/BrianSchneeDev">
   <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/brian-schnee-dev/">
+  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
 </a>
 <a href="https://angel.co/u/brian-schnee">
   <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
