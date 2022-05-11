@@ -1,5 +1,7 @@
 # Brian Schnee
 
+<img src="https://pbs.twimg.com/profile_banners/1483716969056591872/1646869224/1500x500">
+
 <p>Interested in building impactful web applications. Comfortable embracing new challenges, unforeseen responsibilities, and managing multiple projects as team priorities realign. Built and implemented successful front and back-end web applications that have become critical tools for clients and teams.</p>
 
 * **Role**: Software Engineer
