@@ -1,77 +1,35 @@
-<h1 align="center">Hi 👋, I'm Brian Schnee</h1>
-<h4 align="center">Your teams next trusty Software Engineer</h4>
+# Brian Schnee
 
-📫 How to reach me **https://www.brianschnee.com/#contact**
+Full-Stack Software Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brianschneedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianschneedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-schnee-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-schnee-dev/" height="30" width="40" /></a>
-</p>
+* **Location**: New York
+<!-- * **Company**: -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-</p>
+## Social Media
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/brianschnee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brianschnee" /></a></p><br><br><br>
+<a href="https://www.linkedin.com/in/brian-schnee-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?logo=linkedin&logoColor=blue&labelColor=white&style=for-the-badge" />
+</a>
+<a href="https://twitter.com/BrianSchneeDev">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge" />
+</a>
 
+## Technology
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianschnee&show_icons=true&locale=en" alt="brianschnee" /></p>
+### Core
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianschnee&" alt="brianschnee" /></p> -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 
+### Frameworks / Libraries
 
-<table>
-  <tr>
-    <td valign="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianschnee&show_icons=true&locale=en&layout=compact" alt="brianschnee" /></p></td>
-    <td valign="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianschnee&show_icons=true&locale=en" alt="brianschnee" /></p></td>
-    <td valign="center"><p margin="0"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianschnee&" alt="brianschnee" /></p></td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+<!-- ### Testing
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge) -->
