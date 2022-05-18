@@ -47,7 +47,7 @@
       <h3 align="center">BrianSchnee.com</h3>
         <br />
       <a target="_blank" href="https://brianschnee.com">
-          <img src="https://user-images.githubusercontent.com/77141303/169145899-91808aa3-1173-45ae-9e86-6aa298dbc45b.gif" width="100%"  alt="Wii for the Web website"/>
+          <img src="https://user-images.githubusercontent.com/77141303/169147787-418975b7-4761-4c49-b8ae-04cdbd2e3bf1.gif" width="100%"  alt="Wii for the Web website"/>
       </a>
         <br />
       <p align="center">
