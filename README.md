@@ -65,7 +65,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Witch and Wizard Registry</h3>
         <br />
-        <a target="_blank" href="wizarding-registry.netlify.app/">
+        <a target="_blank" href="https://wizarding-registry.netlify.app/">
             <img src="https://user-images.githubusercontent.com/77141303/168927600-546eba1a-b78c-4481-a4f3-48aee7ea0c75.gif" width="100%" alt="Wizarding Registry Website"/>
         </a>
         <br />
