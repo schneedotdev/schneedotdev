@@ -119,5 +119,4 @@
 ### Tools
 
 ![Git](https://img.shields.io/badge/git-272b33?logo=git&logoColor=F05032&style=for-the-badge)
-![NPM](https://img.shields.io/badge/npm-272b33?logo=npm&logoColor=CB3837&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-272b33?logo=postman&logoColor=f76935&style=for-the-badge)
