@@ -42,7 +42,7 @@
             <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
           </a>
         </p>
-        <p><strong>Javascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. An API for educational content for a wide variety of computer science topics, languages and technologies relevant to web development. </p>
+        <p><strong>Javascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">BrianSchnee.com</h3>
