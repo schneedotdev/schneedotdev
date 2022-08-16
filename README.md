@@ -24,13 +24,14 @@
 </a>
 
 ## Projects
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Coding Resources API</h3>
         <br />
         <a target="_blank" href="https://coding-resources-api.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/77141303/184795781-8291ba54-ff68-4971-bf37-1c981de915a0.gif" width="100%" alt="Asteroid Observer Website"/>
+            <img src="https://user-images.githubusercontent.com/77141303/184940802-41a8df49-e782-4c4d-a483-ce8ffdc52d97.gif" width="100%" alt="Asteroid Observer Website"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +48,7 @@
       <h3 align="center">BrianSchnee.com</h3>
         <br />
       <a target="_blank" href="https://brianschnee.com">
-          <img src="https://user-images.githubusercontent.com/77141303/169147787-418975b7-4761-4c49-b8ae-04cdbd2e3bf1.gif" width="100%"  alt="Wii for the Web website"/>
+          <img src="https://user-images.githubusercontent.com/77141303/184939936-56651b68-1458-40d6-a21a-7807ab9c2b43.gif" width="100%"  alt="Wii for the Web website"/>
       </a>
         <br />
       <p align="center">
