@@ -80,21 +80,21 @@
         <p><strong>HTML, CSS, Javascript</strong> - Search through Minerva McGonnagall's list of past and present Hogwarts attendees by name or the house the witch or wizard belongs to.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Asteroid Observation Tool</h3>
+      <h3 align="center">Coding Resources API</h3>
         <br />
-        <a target="_blank" href="https://asteroid-observer.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/77141303/168932147-5aa35725-9b12-4277-8394-4d9917e3eaa3.gif" width="100%" alt="Asteroid Observer Website"/>
+        <a target="_blank" href="https://coding-resources-api.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/77141303/184795781-8291ba54-ff68-4971-bf37-1c981de915a0.gif" width="100%" alt="Asteroid Observer Website"/>
         </a>
         <br />
         <p align="center">
-          <a target="_blank" href="https://github.com/brianschnee/NASA-Asteroid-Observation-Tool">
+          <a target="_blank" href="https://github.com/the-api-administration/coding-resources-api">
             <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
           </a>
-          <a target="_blank" href="https://asteroid-observer.netlify.app">
+          <a target="_blank" href="https://coding-resources-api.herokuapp.com/">
             <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
           </a>
         </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Using NASA's Asteroid NeoWs API, this app allows you to observe an archive of asteroids that have been within a close proximity of earth.</p>
+        <p><strong>Javascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. An API for educational content for a wide variety of computer science topics, languages and technologies relevant to web development. </p>
     </td>
   </tr>
 </table>
