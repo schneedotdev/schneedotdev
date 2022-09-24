@@ -30,7 +30,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Coding Resources API</h3>
         <br />
-        <a target="_blank" href="https://coding-resources-api.herokuapp.com/">
+        <a target="_blank" href="https://coding-resources-api.up.railway.app/">
             <img src="https://user-images.githubusercontent.com/77141303/184940802-41a8df49-e782-4c4d-a483-ce8ffdc52d97.gif" width="100%" alt="Asteroid Observer Website"/>
         </a>
         <br />
