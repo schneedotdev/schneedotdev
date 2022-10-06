@@ -47,7 +47,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Timeato</h3>
         <br />
-      <a target="_blank" href="https://brianschnee.com">
+      <a target="_blank" href="https://timeato.up.railway.app/">
           <img src="https://user-images.githubusercontent.com/77141303/194412941-970dc787-9498-4d65-9518-0a495371c42d.gif" width="100%"  alt="Timeato pomodoro app"/>
       </a>
         <br />
@@ -81,21 +81,21 @@
         <p><strong>HTML, CSS, Javascript</strong> - Search through Minerva McGonnagall's list of past and present Hogwarts attendees by name or the house the witch or wizard belongs to.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wii for the Web</h3>
+      <h3 align="center">Find a Dev</h3>
         <br />
-      <a target="_blank" href="https://wiifortheweb.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/77141303/169122829-3ea6f856-c4e6-450b-ab83-6687b4523683.gif" width="100%"  alt="Wii for the Web website"/>
+      <a target="_blank" href="https://find-a-dev.up.railway.app/">
+          <img src="https://user-images.githubusercontent.com/77141303/194415515-64722c98-7c0b-4d28-a5d3-2a5574ca088e.gif" width="100%"  alt="Find a dev website"/>
       </a>
         <br />
       <p align="center">
-        <a target="_blank" href="https://github.com/brianschnee/Wii-for-the-Web">
+        <a target="_blank" href="https://github.com/brianschnee/find-a-dev">
           <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
         </a>
-        <a target="_blank" href="https://wiifortheweb.netlify.app/">
+        <a target="_blank" href="https://find-a-dev.up.railway.app/">
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Nintendo Wii for the web with a wiimote that tracks to cursor movements.</p>
+        <p><strong>Javascript, MongoDB, Node, Express, EJS</strong> - Find developers who are willing to offer time to tutor! Filter through a list of devs by technology.</p>
     </td>
   </tr>
 </table>
