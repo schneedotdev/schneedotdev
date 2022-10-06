@@ -45,21 +45,21 @@
         <p><strong>Javascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies. </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">BrianSchnee.com</h3>
+      <h3 align="center">Timeato</h3>
         <br />
       <a target="_blank" href="https://brianschnee.com">
-          <img src="https://user-images.githubusercontent.com/77141303/184987559-f0b8cbae-b833-4de7-bb87-044c757a8fd1.gif" width="100%"  alt="Wii for the Web website"/>
+          <img src="https://user-images.githubusercontent.com/77141303/194412941-970dc787-9498-4d65-9518-0a495371c42d.gif" width="100%"  alt="Timeato pomodoro app"/>
       </a>
         <br />
       <p align="center">
-        <a target="_blank" href="https://github.com/brianschnee/portfolio">
+        <a target="_blank" href="https://github.com/devv-work/timeato">
           <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
         </a>
-        <a target="_blank" href="https://brianschnee.com">
+        <a target="_blank" href="https://timeato.up.railway.app/">
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>HTML, CSS</strong> - Learn more about me and my experiences as a Software Engineer!</p>
+        <p><strong>JavaScript, Mongoose, Express, Node, EJS, Passport</strong> - Track productivity, alott time for focusing on tasks, and increase your effectiveness during study sessions</p>
     </td>
   </tr>
   <tr>
