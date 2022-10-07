@@ -28,21 +28,16 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Wii for the Web</h3>
+      <h3 align="center">Climbers Connect</h3>
         <br />
-      <a target="_blank" href="https://wiifortheweb.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/77141303/169122829-3ea6f856-c4e6-450b-ab83-6687b4523683.gif" width="100%"  alt="Wii for the Web website"/>
-      </a>
+        <img src="https://user-images.githubusercontent.com/77141303/194457376-05430a1b-5ffa-41ed-a240-bcf67051eab2.gif" width="100%"  alt="Wii for the Web website"/>
         <br />
       <p align="center">
-        <a target="_blank" href="https://github.com/brianschnee/Wii-for-the-Web">
+        <a target="_blank" href="https://github.com/brianschnee/climbers-connect">
           <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
         </a>
-        <a target="_blank" href="https://wiifortheweb.netlify.app/">
-          <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
-        </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Nintendo Wii for the web with a wiimote that tracks to cursor movements.</p>
+        <p><strong>JavaScript, Mongoose, Node, Express, EJS, Passport</strong> - Social media app that connects climbers to other climbers. Share your completed Boulders and/or sport climbs and meet other community members!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Timeato</h3>
@@ -59,7 +54,7 @@
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>JavaScript, Mongoose, Express, Node, EJS, Passport</strong> - Track productivity, alott time for focusing on tasks, and increase your effectiveness during study sessions</p>
+        <p><strong>JavaScript, Mongoose, Node, Express, EJS, Passport</strong> - Track productivity, alott time for focusing on tasks, and increase your effectiveness during study sessions</p>
     </td>
   </tr>
   <tr>
@@ -78,7 +73,7 @@
             <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
           </a>
         </p>
-        <p><strong>Javascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies. </p>
+        <p><strong>JavaScript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Find a Dev</h3>
@@ -95,7 +90,7 @@
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>Javascript, MongoDB, Node, Express, EJS</strong> - Find developers who are willing to offer time to tutor! Filter through a list of devs by technology.</p>
+        <p><strong>JavaScript, MongoDB, Node, Express, EJS</strong> - Find developers who are willing to offer time to tutor! Filter through a list of devs by technology.</p>
     </td>
   </tr>
 </table>
