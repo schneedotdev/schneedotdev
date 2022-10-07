@@ -30,7 +30,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Climbers Connect</h3>
         <br />
-        <img src="https://user-images.githubusercontent.com/77141303/194457376-05430a1b-5ffa-41ed-a240-bcf67051eab2.gif" width="100%"  alt="Wii for the Web website"/>
+        <img src="https://user-images.githubusercontent.com/77141303/194457376-05430a1b-5ffa-41ed-a240-bcf67051eab2.gif" width="100%"  alt="Climbers Connect website"/>
         <br />
       <p align="center">
         <a target="_blank" href="https://github.com/brianschnee/climbers-connect">
@@ -62,7 +62,7 @@
       <h3 align="center">Coding Resources API</h3>
         <br />
         <a target="_blank" href="https://coding-resources-api.up.railway.app/">
-            <img src="https://user-images.githubusercontent.com/77141303/184940802-41a8df49-e782-4c4d-a483-ce8ffdc52d97.gif" width="100%" alt="Asteroid Observer Website"/>
+            <img src="https://user-images.githubusercontent.com/77141303/184940802-41a8df49-e782-4c4d-a483-ce8ffdc52d97.gif" width="100%" alt="Coding Resources API website"/>
         </a>
         <br />
         <p align="center">
