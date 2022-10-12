@@ -115,6 +115,7 @@
 
 ![Git](https://img.shields.io/badge/git-272b33?logo=git&logoColor=F05032&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/npm-272b33?logo=npm&logoColor=cb3837&style=for-the-badge)
+![Passport](https://img.shields.io/badge/passport-272b33?logo=passport&logoColor=d6ff00&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-272b33?logo=JSON&logoColor=lightgrey&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-272b33?logo=postman&logoColor=f76935&style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/heroku-272b33?logo=heroku&logoColor=8762b2&style=for-the-badge)
