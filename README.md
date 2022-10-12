@@ -54,7 +54,7 @@
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>JavaScript, Mongoose, Node, Express, EJS, Passport</strong> - Track productivity, alott time for focusing on tasks, and increase your effectiveness during study sessions</p>
+        <p><strong>JavaScript, Mongoose, Node, Express, EJS, Passport</strong> - Track productivity, allot time for focusing on tasks, and increase your effectiveness during study sessions</p>
     </td>
   </tr>
   <tr>
