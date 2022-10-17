@@ -118,6 +118,7 @@
 ![Passport](https://img.shields.io/badge/passport-272b33?logo=passport&logoColor=d6ff00&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-272b33?logo=JSON&logoColor=lightgrey&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-272b33?logo=postman&logoColor=f76935&style=for-the-badge)
+![Jest](https://img.shields.io/badge/jest-272b33?logo=jest&logoColor=99425b&style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/heroku-272b33?logo=heroku&logoColor=8762b2&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&logoColor=00c7b7&style=for-the-badge)
 ![Railway](https://img.shields.io/badge/railway-272b33?logo=railway&logoColor=a21ae6&style=for-the-badge)
