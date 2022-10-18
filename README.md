@@ -1,6 +1,6 @@
 # Brian Schnee
 
-<img src="https://pbs.twimg.com/profile_banners/1483716969056591872/1646869224/1500x500">
+<img src="https://user-images.githubusercontent.com/77141303/196316056-fc877c08-700b-425e-a2d4-e04bf6d0cf87.png">
 
 <p>Interested in building impactful web applications. Comfortable embracing new challenges, unforeseen responsibilities, and managing multiple projects as team priorities realign. Built and implemented successful front and back-end web applications that have become critical tools for clients and teams.</p>
 
