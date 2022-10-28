@@ -37,7 +37,7 @@
           <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
         </a>
       </p>
-        <p><strong>JavaScript, Mongoose, Node, Express, EJS, Passport</strong> - Social media app that connects climbers to other climbers. Share your completed Boulders and/or sport climbs and meet other community members!</p>
+        <p><strong>TypeScript, Mongoose, Node, Express, EJS, Passport</strong> - Social media app that connects climbers to other climbers. Share your completed Boulders and/or sport climbs and meet other community members!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Timeato</h3>
