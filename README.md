@@ -69,7 +69,7 @@
           <a target="_blank" href="https://github.com/the-api-administration/coding-resources-api">
             <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
           </a>
-          <a target="_blank" href="https://coding-resources-api.herokuapp.com/">
+          <a target="_blank" href="https://coding-resources-api.up.railway.app/">
             <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
           </a>
         </p>
