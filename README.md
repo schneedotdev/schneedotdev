@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/77141303/196316056-fc877c08-700b-425e-a2d4-e04bf6d0cf87.png">
 
-<p>Interested in building impactful web applications. Comfortable embracing new challenges, unforeseen responsibilities, and managing multiple projects as team priorities realign. Built and implemented successful front and back-end web applications that have become critical tools for clients and teams.</p>
+<p>Software Engineer with 4+ years of experience. Targeting Full-Stack, Frontend, or Backend roles using JavaScript, TypeScript, MongoDB, Express, React, and/or Node.</p>
 
 * **Role**: Software Engineer
 * **Location**: New York
