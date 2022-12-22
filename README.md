@@ -4,8 +4,6 @@
 
 <p>Software Engineer with 4+ years of experience. Targeting Full-Stack, Frontend, or Backend roles using JavaScript, TypeScript, MongoDB, Express, React, and/or Node.</p>
 
-* **Role**: Software Engineer
-* **Location**: New York
 <!-- * **Company**: -->
 
 ## Social Media
