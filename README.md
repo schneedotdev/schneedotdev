@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/77141303/196316056-fc877c08-700b-425e-a2d4-e04bf6d0cf87.png">
 
-<p>Software Engineer with 4+ years of experience. Targeting Full-Stack, Frontend, or Backend roles using JavaScript, TypeScript, MongoDB, Express, React, and/or Node.</p>
+<p>Software Engineer with 4+ years of experience. Targeting Full-Stack, Frontend, or Backend roles using TypeScript/JavaScript.</p>
 
 <!-- * **Company**: -->
 
