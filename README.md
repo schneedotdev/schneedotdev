@@ -1,6 +1,6 @@
 # Brian Schnee
 
-<img src="https://user-images.githubusercontent.com/77141303/196316056-fc877c08-700b-425e-a2d4-e04bf6d0cf87.png">
+<img src="https://user-images.githubusercontent.com/77141303/213626681-f54b37f0-a53d-4cba-9579-7d017eb5e2bf.png">
 
 <p>Software Engineer with 4+ years of experience. Targeting Full-Stack, Frontend, or Backend roles using TypeScript/JavaScript.</p>
 
