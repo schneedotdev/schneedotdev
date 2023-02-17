@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/77141303/213626681-f54b37f0-a53d-4cba-9579-7d017eb5e2bf.png">
 
-<p>Software Engineer with 4+ years of experience. Targeting Full-Stack, Frontend, or Backend roles using TypeScript/JavaScript.</p>
+<p>Full Stack Developer transforming ideas into code, one adventure at a time. Inspired by the ever-evolving landscape of software. Constantly pushing the bounds of my capabilities and finding the best ways to share my insights with others. Targeting Full Stack, Frontend, or Backend development roles.</p>
 
 <!-- * **Company**: -->
 
