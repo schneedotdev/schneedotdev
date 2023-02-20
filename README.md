@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/77141303/219984963-d4524d77-4b2f-407c-a8da-4448f4e11216.png">
 
-<p>Full Stack Developer transforming ideas into code, one adventure at a time. Inspired by the ever-evolving landscape of software. Constantly pushing the bounds of my capabilities and finding the best ways to share my insights with others. Targeting Full Stack, Frontend, or Backend development roles.</p>
+<p>Full Stack Engineer transforming ideas into code, one adventure at a time. Inspired by the ever-evolving landscape of software. Constantly pushing the bounds of my capabilities and finding the best ways to share my insights with others. Targeting Full Stack, Frontend, or Backend development roles.</p>
 
 <!-- * **Company**: -->
 
