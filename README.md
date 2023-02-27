@@ -120,5 +120,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
 ![PhotoShop](https://img.shields.io/badge/photoshop-272b33?logo=AdobePhotoShop&logoColor=31a8ff&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-272b33?logo=Go&logoColor=00aed8&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-272b33?logo=Rust&logoColor=ea4800&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/tailwind-272b33?logo=tailwindcss&logoColor=35b3eb&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=35b3eb&style=for-the-badge)
