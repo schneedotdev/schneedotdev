@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/77141303/220439482-53641367-1f29-4327-abb4-184b8c64304c.png">
 
-<p>Full Stack Engineer transforming ideas into code, one adventure at a time. Inspired by the ever-evolving landscape of software. Constantly pushing the bounds of my capabilities and finding the best ways to share my insights with others. Targeting Full Stack, Frontend, or Backend development roles.</p>
+<p>Full Stack Engineer transforming ideas into code, one adventure at a time. Inspired by the ever-evolving landscape of tech. Constantly pushing the bounds of my capabilities and finding the best ways to share my insights with others. Targeting Full Stack, Frontend, or Backend development roles.</p>
 
 <!-- * **Company**: -->
 
