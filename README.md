@@ -31,6 +31,9 @@
         <a target="_blank" href="https://github.com/brianschnee/climbers-connect">
           <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
         </a>
+        <a target="_blank" href="https://climbersconnect.up.railway.app/">
+          <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+        </a>
       </p>
         <p><strong>TypeScript, Mongoose, Node, Express, EJS, Passport</strong> - Social media app that connects climbers to other climbers. Share your completed Boulders and/or sport climbs and meet other community members!</p>
     </td>
