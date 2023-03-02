@@ -41,7 +41,7 @@
       <h3 align="center">Timeato</h3>
         <br />
       <a target="_blank" href="https://timeato.up.railway.app/">
-          <img src="https://user-images.githubusercontent.com/77141303/194412941-970dc787-9498-4d65-9518-0a495371c42d.gif" width="100%"  alt="Timeato pomodoro app"/>
+          <img src="https://user-images.githubusercontent.com/77141303/222314738-b6846d13-ff48-4be5-907f-a16476cdaf97.gif" width="100%" alt="Timeato pomodoro app"/>
       </a>
         <br />
       <p align="center">
