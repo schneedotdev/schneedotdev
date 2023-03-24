@@ -120,6 +120,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-272b33?logo=heroku&logoColor=8762b2&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&logoColor=00c7b7&style=for-the-badge)
 ![Railway](https://img.shields.io/badge/railway-272b33?logo=railway&logoColor=a21ae6&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/vercel-272b33?logo=vercel&logoColor=FFFFFF&style=for-the-badge)
 ![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
 ![PhotoShop](https://img.shields.io/badge/photoshop-272b33?logo=AdobePhotoShop&logoColor=31a8ff&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-272b33?logo=Go&logoColor=00aed8&style=for-the-badge)
