@@ -95,33 +95,29 @@
 
 ## Technology
 
-### Core
+<!-- ### Core
 
 ![HTML5](https://img.shields.io/badge/html5-272b33?logo=html5&logoColor=e56027&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-272b33?logo=css3&logoColor=2ea0d1&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-272b33?logo=JavaScript&logoColor=ead41c&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-272b33?logo=JavaScript&logoColor=ead41c&style=for-the-badge) -->
 
-### Frameworks / Libraries
+### Core
 
-![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=0374c2&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=0374c2&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=35b3eb&style=for-the-badge)
 
 ### Tools / Tech / Other
 
 ![Git](https://img.shields.io/badge/git-272b33?logo=git&logoColor=F05032&style=for-the-badge)
 ![Pnpm](https://img.shields.io/badge/pnpm-272b33?logo=pnpm&logoColor=f1a800&style=for-the-badge)
-![Passport](https://img.shields.io/badge/passport-272b33?logo=passport&logoColor=d6ff00&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/jest-272b33?logo=jest&logoColor=99425b&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&logoColor=00c7b7&style=for-the-badge)
-![Railway](https://img.shields.io/badge/railway-272b33?logo=railway&logoColor=a21ae6&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/vercel-272b33?logo=vercel&logoColor=FFFFFF&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/aws-272b33?logo=amazon&logoColor=f29100&style=for-the-badge)
-![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
-![PhotoShop](https://img.shields.io/badge/photoshop-272b33?logo=AdobePhotoShop&logoColor=31a8ff&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-272b33?logo=Go&logoColor=00aed8&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-272b33?logo=Rust&logoColor=ea4800&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/tailwind-272b33?logo=tailwindcss&logoColor=35b3eb&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=35b3eb&style=for-the-badge)
