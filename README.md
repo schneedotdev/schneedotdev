@@ -117,7 +117,6 @@
 ![Jest](https://img.shields.io/badge/jest-272b33?logo=jest&logoColor=99425b&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&logoColor=00c7b7&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/vercel-272b33?logo=vercel&logoColor=FFFFFF&style=for-the-badge)
-![AWS](https://img.shields.io/badge/aws-272b33?logo=amazon&logoColor=f29100&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-272b33?logo=Go&logoColor=00aed8&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-272b33?logo=Rust&logoColor=ea4800&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/tailwind-272b33?logo=tailwindcss&logoColor=35b3eb&style=for-the-badge)
