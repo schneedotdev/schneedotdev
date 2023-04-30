@@ -11,7 +11,7 @@
 <a target="_blank" href="https://www.brianschnee.com">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=00c5a9&style=for-the-badge">
 </a>
-<a target="_blank" href="https://twitter.com/BrianSchneeDev">
+<a target="_blank" href="https://twitter.com/fullstackbrian">
   <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/brian-schnee-dev/">
