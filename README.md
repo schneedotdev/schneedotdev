@@ -105,10 +105,10 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=0374c2&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-272b33?logo=next.js&logoColor=ffffff&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=35b3eb&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/prisma-272b33?logo=prisma&logoColor=ffffff&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/vercel-272b33?logo=vercel&logoColor=FFFFFF&style=for-the-badge)
 
 ### Tools / Tech / Other
 
@@ -116,7 +116,9 @@
 ![Pnpm](https://img.shields.io/badge/pnpm-272b33?logo=pnpm&logoColor=f1a800&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/jest-272b33?logo=jest&logoColor=99425b&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&logoColor=00c7b7&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/vercel-272b33?logo=vercel&logoColor=FFFFFF&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-272b33?logo=Go&logoColor=00aed8&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-272b33?logo=Rust&logoColor=ea4800&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/tailwind-272b33?logo=tailwindcss&logoColor=35b3eb&style=for-the-badge)
