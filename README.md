@@ -2,7 +2,7 @@
 
 <!-- links -->
 <div>
-  <sub><p>transforming ideas into code, one adventure at a time.</p></sub>
+  <p><sub>transforming ideas into code, one adventure at a time.</sub></p>
   <a href="https://brianschnee.com/" target="_blank"><sub>👉 &nbsp;website</sub></a>&nbsp;
   <a href="https://twitter.com/fullstackbrian" target="_blank"><sub>🐤 &nbsp;twitter</sub></a>&nbsp;
   <a href="https://linkedin.com/in/brian-schnee-dev" target="_blank"><sub>🤝 &nbsp;linkedin</sub></a>&nbsp;
@@ -13,7 +13,7 @@
 
 <!-- technical writing -->
 <div>
-  <sub><p>learning is a lifelong journey, and i enjoy teaching others along the way.</p></sub>
+  <p><sub>learning is a lifelong journey, and i enjoy teaching others along the way.</sub></p>
   <a href="https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l"><sub>📖 &nbsp; "how to learn and use typescript: a comprehensive beginner's guide"</sub></a>
   <br />
   <a href="https://dev.to/brianschnee/the-types-you-need-learning-typescript-185"><sub>💌 &nbsp; "the types you need - learning typescript"</sub></a>
