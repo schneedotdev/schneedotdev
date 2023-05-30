@@ -2,23 +2,23 @@
 
 <!-- links -->
 <div>
-  <sub><p>transforming ideas into code, one adventure at a time.</p></sub>
-  <sub><a href="https://brianschnee.com/" target="_blank">👉 &nbsp;website</a></sub>&nbsp;
-  <sub><a href="https://twitter.com/fullstackbrian" target="_blank">🐤 &nbsp;twitter</a></sub>&nbsp;
-  <sub><a href="https://linkedin.com/in/brian-schnee-dev" target="_blank">🤝 &nbsp;linkedin</a></sub>&nbsp;
-  <sub><a href="https://dev.to/brianschnee" target="_blank">✍️ &nbsp; writing</a></sub>&nbsp;
+  <p><sub>transforming ideas into code, one adventure at a time.</sub></p>
+  <a href="https://brianschnee.com/" target="_blank"><sub>👉 &nbsp;website</sub></a>&nbsp;
+  <a href="https://twitter.com/fullstackbrian" target="_blank"><sub>🐤 &nbsp;twitter</sub></a>&nbsp;
+  <a href="https://linkedin.com/in/brian-schnee-dev" target="_blank"><sub>🤝 &nbsp;linkedin</sub></a>&nbsp;
+  <a href="https://dev.to/brianschnee" target="_blank"><sub>✍️ &nbsp; writing</sub></a>&nbsp;
 </div>
 
 <br />
 
 <!-- technical writing -->
 <div>
-  <sub><p>learning is a lifelong journey, and i enjoy teaching others along the way.</p></sub>
-  <sub>📖 &nbsp; <a href="https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l">"how to learn and use typescript: a comprehensive beginner's guide"</a></sub>
+  <p><sub>learning is a lifelong journey, and i enjoy teaching others along the way.</sub></p>
+  <a href="https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l"><sub>📖 &nbsp; "how to learn and use typescript: a comprehensive beginner's guide"</sub></a>
   <br />
-  <sub>💌 &nbsp; <a href="https://dev.to/brianschnee/the-types-you-need-learning-typescript-185">"the types you need - learning typescript"</a></sub>
+  <a href="https://dev.to/brianschnee/the-types-you-need-learning-typescript-185"><sub>💌 &nbsp; "the types you need - learning typescript"</sub></a>
   <br />
-  <sub>🦀 &nbsp; <a href="https://dev.to/brianschnee/rusts-most-unique-memory-management-features-explained-ownership-and-borrowing-49g5">"rust's most unique memory management features explained - ownership and borrowing"</a></sub>
+  <a href="https://dev.to/brianschnee/rusts-most-unique-memory-management-features-explained-ownership-and-borrowing-49g5"><sub>🦀 &nbsp; "rust's most unique memory management features explained - ownership and borrowing"</sub></a>
 </div>
 
 <br />
