@@ -13,7 +13,7 @@
 
 <!-- technical writing -->
 <div>
-  <sub><p>learning is a lifelong journey, and i enjoy teaching others along the way.</p></sub>
+  <sub><p>learning is a lifelong journey, and i enjoy supporting others along the way.</p></sub>
   <a href="https://www.schnee.dev/blogs/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide"><sub>📖 &nbsp; "how to learn and use typescript: a comprehensive beginner's guide"</sub></a>
   <br />
   <a href="https://www.schnee.dev/blogs/the-types-you-need"><sub>💌 &nbsp; "the types you need - learning typescript"</sub></a>
